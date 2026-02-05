@@ -1,6 +1,6 @@
 # ⚡ Energy Monitoring Controller
 
-Contrôleur d’énergie basé sur Arduino permettant la mesure en temps réel de la tension, du courant, de la puissance et de l’énergie consommée, avec transmission des données vers un ordinateur ou un Raspberry Pi pour visualisation et stockage.
+Contrôleur d’énergie basé sur Arduino permettant la mesure en temps réel de la tension, du courant, de la puissance et de l’énergie consommée.
 
 Ce projet a été conçu comme une brique matérielle simple, fiable et réutilisable pour des systèmes énergétiques (batteries, panneaux solaires, bancs de test, micro-réseaux, etc.).
 
